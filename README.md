@@ -1,5 +1,8 @@
 # SQL-Retail-Sales-Analysis
 The project involves setting up a retail sales database,  performing exploratory data analysis (EDA), and answering specific  business questions through SQL queries.
+
+<img width="1348" height="508" alt="Screenshot 2026-02-03 200609 SQL" src="https://github.com/user-attachments/assets/604e07b5-a16c-4c74-b333-b6525ab7176c" />
+
 # Questions answered
 1. What country generated the most revenue?
 
